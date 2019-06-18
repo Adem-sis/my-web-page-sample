@@ -1,2 +1,5 @@
 This is a self introdution.
 I am ademe , but  people here have defficulty pronouncing it .
+git branch
+git checkout -b branch name
+git checkout
